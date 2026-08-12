@@ -1,0 +1,8 @@
+﻿faker
+pandas
+duckdb
+streamlit
+numpy
+plotly
+python-dotenv
+requests
